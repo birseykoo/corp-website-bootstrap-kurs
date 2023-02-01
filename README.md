@@ -2,6 +2,8 @@
 
 Bu proje [Hakan Yalçınkaya](https://github.com/hakanyalcinkaya) hocamın [Sıfırdan Uçtan Uca Projelerle Python ve Django Öğren](https://www.udemy.com/course/full-stack-sifirdan-projelerle-uctan-uca-python-ve-django-egitimi/) kursu kapsamında bootstrap şirket websitesi demosu çerçevesinde geliştirilmiştir.
 
+Proje demosuna [tıklayarak](https://main--cheery-longma-f3802b.netlify.app/) ulaşabilirsiniz.
+
 ## Kurulum
 
 Projeyi klonlayın.
